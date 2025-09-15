@@ -1,1 +1,1 @@
-Bộ dữ liệu Tương đồng Văn bản Việt–Lào là một bộ dữ liệu song ngữ chứa các cặp câu tiếng Việt–tiếng Lào với điểm số tương đồng. Nó được thiết kế để hỗ trợ nghiên cứu về tương đồng ngữ nghĩa đa ngôn ngữ, dịch máy và NLP đa ngôn ngữ.
+# Bộ dữ liệu Tương đồng Văn bản Việt–Lào là một bộ dữ liệu song ngữ chứa các cặp câu tiếng Việt–tiếng Lào với điểm số tương đồng. Nó được thiết kế để hỗ trợ nghiên cứu về tương đồng ngữ nghĩa đa ngôn ngữ, dịch máy và NLP đa ngôn ngữ.
